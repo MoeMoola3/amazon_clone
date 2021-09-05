@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd6d8f59-62f7-465b-bea2-02bc9d0e835a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljWVwzaPOIlIVJCwbRQ2QrOk1z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd6d8f59-62f7-465b-bea2-02bc9d0e835a" name="Default Changelist" comment="" />
+      <created>1608111008373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608111008373</updated>
+      <workItem from="1608111012675" duration="2644000" />
+      <workItem from="1608135183369" duration="2018000" />
+      <workItem from="1608214947973" duration="410000" />
+      <workItem from="1608238533163" duration="4754000" />
+      <workItem from="1608309684499" duration="4811000" />
+      <workItem from="1609263835152" duration="3860000" />
+      <workItem from="1609350424820" duration="485000" />
+      <workItem from="1609374523701" duration="1707000" />
+      <workItem from="1609413248808" duration="380000" />
+      <workItem from="1609446955727" duration="2919000" />
+      <workItem from="1609572584468" duration="206000" />
+      <workItem from="1609582186082" duration="2724000" />
+      <workItem from="1609701210072" duration="1189000" />
+      <workItem from="1609745767051" duration="1763000" />
+      <workItem from="1609783403490" duration="773000" />
+      <workItem from="1609847299120" duration="4540000" />
+      <workItem from="1609930643244" duration="434000" />
+      <workItem from="1609932186933" duration="121000" />
+      <workItem from="1610041003487" duration="3121000" />
+      <workItem from="1610049605188" duration="2928000" />
+      <workItem from="1610194293489" duration="1539000" />
+      <workItem from="1610221890303" duration="2000" />
+      <workItem from="1610225979745" duration="92000" />
+      <workItem from="1610448447400" duration="1183000" />
+      <workItem from="1610483707315" duration="977000" />
+      <workItem from="1610542140991" duration="6385000" />
+      <workItem from="1610988607063" duration="396000" />
+      <workItem from="1611241277211" duration="1040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608114303898">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1608114303898" />
+    <state x="0" y="142" key="IDE.errors.dialog" timestamp="1610564135118">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="142" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1610564135118" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1608115189093">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1608115189093" />
+  </component>
+</project>
